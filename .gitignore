@@ -1,3 +1,4 @@
 .xlsx
 .parquet
 Private/*
+venv/*
